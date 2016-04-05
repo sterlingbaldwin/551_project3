@@ -22,6 +22,12 @@ vector<double> gauss(vector<vector<double> > A){
       }
   }
 
+  for (int k=i; k<n+1;k++) {
+      double tmp = A[maxRow][k];
+      A[maxRow][k] = A[i][k];
+      A[i][k] = tmp;
+  }
+
   // Solve equation Ax=b for an upper triangular matrix A
   vector<double> x(n);
   // Do back substitution
