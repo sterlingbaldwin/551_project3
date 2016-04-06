@@ -41,7 +41,12 @@ vector<double> gauss(vector<vector<double> > A){
 
   // Solve equation Ax=b for an upper triangular matrix A
   vector<double> x(n);
-  // Do back substitution
+  for (int i=n-1; i>=0; i--) {
+      x[i] = A[i][n]/A[i][i];
+      for (int k=i-1;k>=0; k--) {
+          A[k][n] -= A[k][i] * x[i];
+      }
+  }
   return x;
 }
 
