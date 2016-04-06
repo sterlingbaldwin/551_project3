@@ -28,6 +28,17 @@ vector<double> gauss(vector<vector<double> > A){
       A[i][k] = tmp;
   }
 
+  for (int k=i+1; k<n; k++) {
+      double c = -A[k][i]/A[i][i];
+      for (int j=i; j<n+1; j++) {
+          if (i==j) {
+              A[k][j] = 0;
+          } else {
+              A[k][j] += c * A[i][j];
+          }
+      }
+  }
+
   // Solve equation Ax=b for an upper triangular matrix A
   vector<double> x(n);
   // Do back substitution
