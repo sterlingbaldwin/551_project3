@@ -66,11 +66,34 @@ int main(int argc, char *argv[]) {
     vector< vector<double> > A(n,line);
 
     srand48(time(NULL));
-    #pragma omp parallel for
     for (int i=0; i<n; i++) {
         for (int j=0; j<=n; j++) {
             A[i][j] = drand48() * 2000000 - 1000000;
         }
     }
+
+    #pragma omp parallel
+    {
+      if(omp_get_thread_num() == 0){
+        cout << "running with n: "
+             << n
+             << "\nnumber procs available: "
+             << omp_get_num_procs()
+             << "\nnumber threads running: "
+             << omp_get_num_threads()
+             << "\n";
+      }
+    }
+
+    for(int i = 0; i<n; i++){
+      double sum = 0;
+      for(int j = 0; j<n; j++){
+          sum += A[i][j] * x[j];
+      }
+      residual += pow(sum - A[i][n], 2);
+    }
+
+    cout << "residual: " << sqrt(residual) << "\n";
+    cout << "DONE\n";
 
 }
