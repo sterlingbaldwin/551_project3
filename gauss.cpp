@@ -63,12 +63,12 @@ int main(int argc, char *argv[]) {
     cout << "theads should be:" << threads << "\n";
 
     vector<double> line(n+1,0);
-    vector< vector<double> > A(n,line);
+    vector< vector<double>* > A(n,line);
 
     srand48(time(NULL));
     for (int i=0; i<n; i++) {
         for (int j=0; j<=n; j++) {
-            A[i][j] = drand48() * 2000000 - 1000000;
+            (*A[i][j]) = drand48() * 2000000 - 1000000;
         }
     }
 
@@ -84,13 +84,15 @@ int main(int argc, char *argv[]) {
              << "\n";
       }
     }
+    vector<double> x(n);
+    x = gauss(A);
 
     for(int i = 0; i<n; i++){
       double sum = 0;
       for(int j = 0; j<n; j++){
-          sum += A[i][j] * x[j];
+          sum += (*A[i][j]) * x[j];
       }
-      residual += pow(sum - A[i][n], 2);
+      residual += pow(sum - (*A[i][n]), 2);
     }
 
     cout << "residual: " << sqrt(residual) << "\n";
