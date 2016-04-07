@@ -7,7 +7,7 @@
 using namespace std;
 
 vector<double> gauss(vector<vector<double>* > A){
-  int n = A.size();
+  int n = A->size();
 
   for (int i=0; i<n; i++) {
       // Search for maximum in this column
