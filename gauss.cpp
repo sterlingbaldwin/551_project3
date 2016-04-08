@@ -47,6 +47,7 @@ vector<double> gauss(vector< vector<double> > A) {
     vector<double> x(n);
     for (int i=n-1; i>=0; i--) {
         x[i] = A[i][n]/A[i][i];
+        #pragma omp parallel for
         for (int k=i-1;k>=0; k--) {
             A[k][n] -= A[k][i] * x[i];
         }
