@@ -1,0 +1,499 @@
+Sat May  7 17:42:12 MDT 2016
+comb
+gauss
+gauss.cpp
+gauss.cpp.bak
+gauss.cpp.bak2
+gauss.cpp.bak3
+gauss.o9861
+gauss.o9862
+gauss.o9863
+gauss.o9864
+gauss.o9865
+gauss.o9866
+gauss.o9867
+gauss.o9868
+gauss.o9869
+gauss.o9870
+gauss.o9871
+gauss.o9872
+gauss.o9873
+gauss.o9874
+gauss.o9875
+gauss.o9876
+gauss.o9877
+hello
+hello.c
+intel
+makefile
+out
+run
+runs
+sub
+t10.1
+t1.1
+t1.2
+t1.3
+t20.1
+t2.1
+t30.1
+t4.1
+t5.1
+t8.1
+0.00user 0.00system 0:00.00elapsed 16%CPU (0avgtext+0avgdata 3536maxresident)k
+0inputs+0outputs (0major+266minor)pagefaults 0swaps
+Sat May  7 18:19:36 MDT 2016
+theads should be:1
+running with n: 8000
+number procs available: 40
+number threads running: 1
+Printing after gauss
+printing before residual
+residual: 0.00148092
+DONE
+561.52user 0.45system 9:22.04elapsed 99%CPU (0avgtext+0avgdata 4013024maxresident)k
+0inputs+0outputs (0major+250898minor)pagefaults 0swaps
+Sat May  7 18:19:34 MDT 2016
+theads should be:1
+running with n: 8000
+number procs available: 40
+number threads running: 1
+Printing after gauss
+printing before residual
+residual: 0.0620897
+DONE
+556.08user 0.48system 9:16.63elapsed 99%CPU (0avgtext+0avgdata 4013040maxresident)k
+0inputs+0outputs (0major+250899minor)pagefaults 0swaps
+Sat May  7 18:12:17 MDT 2016
+theads should be:1
+running with n: 8000
+number procs available: 40
+number threads running: 1
+Printing after gauss
+printing before residual
+residual: 0.00123439
+DONE
+1265.67user 2.49system 10:34.54elapsed 199%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+250898minor)pagefaults 0swaps
+Sat May  7 18:10:17 MDT 2016
+theads should be:1
+running with n: 8000
+number procs available: 40
+number threads running: 1
+Printing after gauss
+printing before residual
+residual: 0.00387337
+DONE
+556.32user 0.44system 9:16.83elapsed 99%CPU (0avgtext+0avgdata 4013024maxresident)k
+0inputs+0outputs (0major+250898minor)pagefaults 0swaps
+Sat May  7 18:10:13 MDT 2016
+theads should be:1
+running with n: 8000
+number procs available: 40
+number threads running: 1
+Printing after gauss
+printing before residual
+residual: 0.00185559
+DONE
+561.48user 0.45system 9:21.99elapsed 99%CPU (0avgtext+0avgdata 4013040maxresident)k
+0inputs+0outputs (0major+250899minor)pagefaults 0swaps
+Sat May  7 18:03:37 MDT 2016
+theads should be:2
+running with n: 8000
+number procs available: 40
+number threads running: 2
+Printing after gauss
+printing before residual
+residual: 0.000824216
+DONE
+793.25user 4.52system 6:39.08elapsed 199%CPU (0avgtext+0avgdata 4013824maxresident)k
+0inputs+0outputs (0major+250950minor)pagefaults 0swaps
+Sat May  7 18:03:30 MDT 2016
+theads should be:2
+running with n: 8000
+number procs available: 40
+number threads running: 2
+Printing after gauss
+printing before residual
+residual: 0.000387558
+DONE
+799.00user 4.55system 6:42.06elapsed 199%CPU (0avgtext+0avgdata 4013872maxresident)k
+0inputs+0outputs (0major+250953minor)pagefaults 0swaps
+Sat May  7 18:03:25 MDT 2016
+theads should be:2
+running with n: 8000
+number procs available: 40
+number threads running: 2
+Printing after gauss
+printing before residual
+residual: 0.00160626
+DONE
+1525.11user 66.46system 8:51.00elapsed 299%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+250952minor)pagefaults 0swaps
+Sat May  7 17:56:58 MDT 2016
+theads should be:2
+running with n: 8000
+number procs available: 40
+number threads running: 2
+Printing after gauss
+printing before residual
+residual: 0.0026571
+DONE
+789.73user 4.28system 6:37.27elapsed 199%CPU (0avgtext+0avgdata 4013872maxresident)k
+0inputs+0outputs (0major+250954minor)pagefaults 0swaps
+Sat May  7 17:56:42 MDT 2016
+theads should be:2
+running with n: 8000
+number procs available: 40
+number threads running: 2
+Printing after gauss
+printing before residual
+residual: 0.00349673
+DONE
+809.24user 5.06system 6:47.33elapsed 199%CPU (0avgtext+0avgdata 4013840maxresident)k
+0inputs+0outputs (0major+250951minor)pagefaults 0swaps
+Sat May  7 17:56:23 MDT 2016
+theads should be:5
+running with n: 8000
+number procs available: 40
+number threads running: 5
+Printing after gauss
+printing before residual
+residual: 0.00306324
+DONE
+3333.51user 42.56system 7:01.57elapsed 800%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+251081minor)pagefaults 0swaps
+Sat May  7 17:53:00 MDT 2016
+theads should be:5
+running with n: 8000
+number procs available: 40
+number threads running: 5
+Printing after gauss
+printing before residual
+residual: 0.00234666
+DONE
+1184.25user 3.62system 3:57.93elapsed 499%CPU (0avgtext+0avgdata 4015824maxresident)k
+0inputs+0outputs (0major+251083minor)pagefaults 0swaps
+Sat May  7 17:52:38 MDT 2016
+theads should be:5
+running with n: 8000
+number procs available: 40
+number threads running: 5
+Printing after gauss
+printing before residual
+residual: 0.000465094
+DONE
+1210.95user 3.73system 4:03.31elapsed 499%CPU (0avgtext+0avgdata 4015824maxresident)k
+0inputs+0outputs (0major+251082minor)pagefaults 0swaps
+Sat May  7 17:27:41 MDT 2016
+theads should be:5
+running with n: 8000
+number procs available: 40
+number threads running: 5
+Printing after gauss
+printing before residual
+residual: 0.000325477
+DONE
+1180.55user 3.25system 3:57.11elapsed 499%CPU (0avgtext+0avgdata 4015824maxresident)k
+0inputs+0outputs (0major+251081minor)pagefaults 0swaps
+Sat May  7 17:27:34 MDT 2016
+theads should be:5
+running with n: 8000
+number procs available: 40
+number threads running: 5
+Printing after gauss
+printing before residual
+residual: 0.000585629
+DONE
+1208.80user 3.38system 4:02.81elapsed 499%CPU (0avgtext+0avgdata 4015840maxresident)k
+0inputs+0outputs (0major+251081minor)pagefaults 0swaps
+Sat May  7 17:28:16 MDT 2016
+theads should be:10
+running with n: 8000
+number procs available: 40
+number threads running: 10
+Printing after gauss
+printing before residual
+residual: 0.000687656
+DONE
+6471.18user 67.35system 6:49.59elapsed 1596%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+251283minor)pagefaults 0swaps
+Sat May  7 17:24:08 MDT 2016
+theads should be:10
+running with n: 8000
+number procs available: 40
+number threads running: 10
+Printing after gauss
+printing before residual
+residual: 0.00145342
+DONE
+2116.51user 3.90system 3:32.40elapsed 998%CPU (0avgtext+0avgdata 4018896maxresident)k
+0inputs+0outputs (0major+251283minor)pagefaults 0swaps
+Sat May  7 17:23:50 MDT 2016
+theads should be:10
+running with n: 8000
+number procs available: 40
+number threads running: 10
+Printing after gauss
+printing before residual
+residual: 0.000413767
+DONE
+2229.18user 3.94system 3:43.64elapsed 998%CPU (0avgtext+0avgdata 4018896maxresident)k
+0inputs+0outputs (0major+251280minor)pagefaults 0swaps
+Sat May  7 17:21:25 MDT 2016
+theads should be:10
+running with n: 8000
+number procs available: 40
+number threads running: 10
+Printing after gauss
+printing before residual
+residual: 0.000404553
+DONE
+6346.50user 63.35system 6:49.51elapsed 1565%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+251283minor)pagefaults 0swaps
+Sat May  7 17:20:05 MDT 2016
+theads should be:10
+running with n: 8000
+number procs available: 40
+number threads running: 10
+Printing after gauss
+printing before residual
+residual: 0.00618676
+DONE
+2227.77user 3.76system 3:43.50elapsed 998%CPU (0avgtext+0avgdata 4018896maxresident)k
+0inputs+0outputs (0major+251282minor)pagefaults 0swaps
+Sat May  7 17:04:19 MDT 2016
+theads should be:20
+running with n: 8000
+number procs available: 40
+number threads running: 20
+Printing after gauss
+printing before residual
+residual: 0.00067923
+DONE
+4121.97user 4.78system 3:26.69elapsed 1996%CPU (0avgtext+0avgdata 4024976maxresident)k
+0inputs+0outputs (0major+251673minor)pagefaults 0swaps
+Sat May  7 17:03:45 MDT 2016
+theads should be:20
+running with n: 8000
+number procs available: 40
+number threads running: 20
+Printing after gauss
+printing before residual
+residual: 0.00173497
+DONE
+12911.93user 132.63system 6:48.63elapsed 3192%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+251674minor)pagefaults 0swaps
+Sat May  7 17:00:51 MDT 2016
+theads should be:20
+running with n: 8000
+number procs available: 40
+number threads running: 20
+Printing after gauss
+printing before residual
+residual: 0.000646146
+DONE
+4121.83user 5.01system 3:26.67elapsed 1996%CPU (0avgtext+0avgdata 4024992maxresident)k
+0inputs+0outputs (0major+251676minor)pagefaults 0swaps
+Sat May  7 16:57:24 MDT 2016
+theads should be:20
+running with n: 8000
+number procs available: 40
+number threads running: 20
+Printing after gauss
+printing before residual
+residual: 0.000422524
+DONE
+4120.83user 4.78system 3:26.63elapsed 1996%CPU (0avgtext+0avgdata 4024976maxresident)k
+0inputs+0outputs (0major+251666minor)pagefaults 0swaps
+Sat May  7 16:56:55 MDT 2016
+theads should be:20
+running with n: 8000
+number procs available: 40
+number threads running: 20
+Printing after gauss
+printing before residual
+residual: 0.000217088
+DONE
+12901.96user 138.65system 6:49.06elapsed 3187%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+251672minor)pagefaults 0swaps
+Sat May  7 16:53:57 MDT 2016
+theads should be:30
+running with n: 8000
+number procs available: 40
+number threads running: 30
+Printing after gauss
+printing before residual
+residual: 0.000325434
+DONE
+6161.00user 10.16system 3:26.07elapsed 2994%CPU (0avgtext+0avgdata 4031328maxresident)k
+0inputs+0outputs (0major+252085minor)pagefaults 0swaps
+Sat May  7 16:50:30 MDT 2016
+theads should be:30
+running with n: 8000
+number procs available: 40
+number threads running: 30
+Printing after gauss
+printing before residual
+residual: 0.000861988
+DONE
+6160.58user 10.22system 3:26.09elapsed 2994%CPU (0avgtext+0avgdata 4031328maxresident)k
+0inputs+0outputs (0major+252103minor)pagefaults 0swaps
+Sat May  7 16:50:04 MDT 2016
+theads should be:30
+running with n: 8000
+number procs available: 40
+number threads running: 30
+Printing after gauss
+printing before residual
+residual: 0.000311817
+DONE
+19303.92user 256.73system 6:49.46elapsed 4777%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+252081minor)pagefaults 0swaps
+Sat May  7 16:47:03 MDT 2016
+theads should be:30
+running with n: 8000
+number procs available: 40
+number threads running: 30
+Printing after gauss
+printing before residual
+residual: 0.000364629
+DONE
+6156.09user 10.20system 3:25.93elapsed 2994%CPU (0avgtext+0avgdata 4031328maxresident)k
+0inputs+0outputs (0major+252078minor)pagefaults 0swaps
+Sat May  7 16:43:36 MDT 2016
+theads should be:30
+running with n: 8000
+number procs available: 40
+number threads running: 30
+Printing after gauss
+printing before residual
+residual: 0.0239922
+DONE
+6154.53user 10.94system 3:25.92elapsed 2994%CPU (0avgtext+0avgdata 4031312maxresident)k
+0inputs+0outputs (1major+252080minor)pagefaults 0swaps
+Sat May  7 17:42:13 MDT 2016
+Sat May  7 20:04:19 MDT 2016
+theads should be:1
+running with n: 8000
+number procs available: 40
+number threads running: 1
+Printing after gauss
+printing before residual
+residual: 0.00135867
+DONE
+556.34user 0.44system 9:16.85elapsed 99%CPU (0avgtext+0avgdata 4013024maxresident)k
+0inputs+0outputs (0major+250898minor)pagefaults 0swaps
+Sat May  7 20:00:53 MDT 2016
+theads should be:2
+running with n: 8000
+number procs available: 40
+number threads running: 2
+Printing after gauss
+printing before residual
+residual: 0.00141548
+DONE
+803.50user 4.37system 6:44.12elapsed 199%CPU (0avgtext+0avgdata 4013840maxresident)k
+0inputs+0outputs (0major+250951minor)pagefaults 0swaps
+Sat May  7 20:00:21 MDT 2016
+theads should be:5
+running with n: 8000
+number procs available: 40
+number threads running: 5
+Printing after gauss
+printing before residual
+residual: 0.00351213
+DONE
+1183.40user 3.45system 3:57.72elapsed 499%CPU (0avgtext+0avgdata 4015824maxresident)k
+0inputs+0outputs (0major+251081minor)pagefaults 0swaps
+Sat May  7 20:01:12 MDT 2016
+theads should be:10
+running with n: 8000
+number procs available: 40
+number threads running: 10
+Printing after gauss
+printing before residual
+residual: 0.00142671
+DONE
+6629.45user 65.78system 6:49.36elapsed 1635%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+251283minor)pagefaults 0swaps
+Sat May  7 19:57:11 MDT 2016
+theads should be:20
+running with n: 8000
+number procs available: 40
+number threads running: 20
+Printing after gauss
+printing before residual
+residual: 0.000310319
+DONE
+4401.23user 4.64system 3:40.64elapsed 1996%CPU (0avgtext+0avgdata 4024976maxresident)k
+0inputs+0outputs (0major+251675minor)pagefaults 0swaps
+Sat May  7 19:56:53 MDT 2016
+theads should be:30
+running with n: 8000
+number procs available: 40
+number threads running: 30
+Printing after gauss
+printing before residual
+residual: 0.00171071
+DONE
+6162.78user 10.22system 3:26.14elapsed 2994%CPU (0avgtext+0avgdata 4031312maxresident)k
+0inputs+0outputs (0major+252087minor)pagefaults 0swaps
+Sat May  7 20:13:41 MDT 2016
+/usr/bin/time: cannot run %e: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 896maxresident)k
+0inputs+0outputs (0major+45minor)pagefaults 0swaps
+Sat May  7 20:13:40 MDT 2016
+/usr/bin/time: cannot run %e: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 896maxresident)k
+0inputs+0outputs (0major+45minor)pagefaults 0swaps
+Sat May  7 20:13:39 MDT 2016
+/usr/bin/time: cannot run %e: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 896maxresident)k
+0inputs+0outputs (0major+45minor)pagefaults 0swaps
+Sat May  7 20:13:38 MDT 2016
+/usr/bin/time: cannot run %e: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 896maxresident)k
+0inputs+0outputs (0major+45minor)pagefaults 0swaps
+Sat May  7 20:13:37 MDT 2016
+/usr/bin/time: cannot run %e: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 880maxresident)k
+0inputs+0outputs (0major+45minor)pagefaults 0swaps
+Sat May  7 20:13:37 MDT 2016
+/usr/bin/time: cannot run %e: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed 0%CPU (0avgtext+0avgdata 928maxresident)k
+0inputs+0outputs (0major+45minor)pagefaults 0swaps
+Sat May  7 19:23:45 MDT 2016
+comb
+combined-output
+gauss
+gauss.cpp
+gauss.cpp.bak
+gauss.cpp.bak2
+gauss.cpp.bak3
+hello
+hello.c
+intel
+makefile
+out
+run
+runs
+sub
+t10.1
+t1.1
+t1.2
+t1.3
+t20.1
+t2.1
+t30.1
+t4.1
+t5.1
+t8.1
+0.00user 0.00system 0:00.00elapsed 66%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+263minor)pagefaults 0swaps
